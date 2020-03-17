@@ -1,0 +1,16 @@
+{
+    "name": "Bear Quest v1.0",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "description": "",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
