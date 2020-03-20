@@ -1,16 +1,19 @@
 {
     "name": "Bear Quest v1.0",
+    "description": "",
     "dependencies": {
         "device": "*",
         "animation": "*"
     },
-    "description": "",
     "files": [
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
